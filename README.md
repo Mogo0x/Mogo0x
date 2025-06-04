@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mogo0x
-- 👀 I’m interested in Cyber Security field
+- 👀 I’m interested in Product/project management field
 - 🌱 I’m currently learning Back-End with Django for my graduation project
-- 💞️ I’m looking to collaborate on pentertion testing
+- 💞️ I’m looking to collaborate on internship
 - 📫 How to reach me
 - Whats upp: 01009334168
 -  linkedin: www.linkedin.com/in/abdelrhman-moghazy-99a0bb20b
